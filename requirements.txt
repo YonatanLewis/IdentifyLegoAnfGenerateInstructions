@@ -1,0 +1,12 @@
+torch>=2.2
+torchvision>=0.17
+pillow>=10.0.0
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.5
+tqdm>=4.66
+requests>=2.31
+python-dotenv>=1.0
+
+# Optional (for future Excel export feature)
+# openpyxl>=3.1
